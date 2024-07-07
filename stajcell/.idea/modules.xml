@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/stajcell.iml" filepath="$PROJECT_DIR$/.idea/stajcell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stajcell.stajcell.iml" filepath="$PROJECT_DIR$/.idea/modules/stajcell.stajcell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stajcell.stajcell.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stajcell.stajcell.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stajcell.stajcell.test.iml" filepath="$PROJECT_DIR$/.idea/modules/stajcell.stajcell.test.iml" />
+    </modules>
+  </component>
+</project>
